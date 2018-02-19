@@ -20,6 +20,8 @@
     "linebreak-style": 0,
     "jsx-a11y/anchor-is-valid": 1,
     "jsx-a11y/label-has-for": 1,
-    "no-empty": 1
+    "no-empty": 1,
+    "import/prefer-default-export": 1,
+    "prefer-destructuring": 1
   }
 }
