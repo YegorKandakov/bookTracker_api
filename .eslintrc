@@ -22,6 +22,7 @@
     "jsx-a11y/label-has-for": 1,
     "no-empty": 1,
     "import/prefer-default-export": 1,
-    "prefer-destructuring": 1
+    "prefer-destructuring": 1,
+    "no-underscore-dangle": 1
   }
 }
